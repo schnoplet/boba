@@ -1,0 +1,1 @@
+ccso there’s this thing called Hack Club, they’re super cool. they’ve got this [thing](https://boba.hackclub.com) that gives you free stuff for making a website. finally made me start my portfolio… here goes nothing!
