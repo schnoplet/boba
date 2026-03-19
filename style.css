@@ -222,6 +222,27 @@ h1 {
   animation: floaty 6s ease-in-out infinite;
 }
 
+/* random photo gremlin, keep it fed and out of sunlight */ 
+.mystery-card {
+  display: grid;
+  gap: 12px;
+  justify-items: center;
+  text-align: center;
+}
+
+.mystery-pic {
+  width: min(200px, 100%);
+  height: auto;
+  border-radius: 14px;
+  border: 1px solid var(--cloud-line);
+  box-shadow: 0 12px 22px rgba(26, 31, 46, 0.12);
+}
+
+.random-note {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
 .ping-card.tilt {
   --tilt: -2deg;
   animation-delay: 0.4s;
